@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SheRuby
+- 👋 Hi, I’m @RubyShe
 - 👀 I’m interested in Machine Learning, Python for Data Analysis and C, C++
 - 🌱 I’m currently learning everything I abovementioned :)
 - 📫 How to reach me: 
